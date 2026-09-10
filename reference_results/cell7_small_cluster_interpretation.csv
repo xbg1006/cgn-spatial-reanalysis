@@ -1,0 +1,5 @@
+endpoint,asymptotic_P,wild_bootstrap_P,wild_bootstrap_FDR,interpretation,status
+MAC M2,7.462781999866505e-05,0.0629,0.2,Not nominally significant under wild-cluster bootstrap,ATTENUATED
+FIB M1,1.2674936983002786e-06,0.441,0.441,Not nominally significant under wild-cluster bootstrap,ATTENUATED
+FIB M3,3.961392430237418e-08,0.1,0.2,Not nominally significant under wild-cluster bootstrap,ATTENUATED
+MAC-FIB,0.017941719762655316,0.184,0.24533333333333332,Not nominally significant under wild-cluster bootstrap,ATTENUATED

@@ -1,0 +1,3 @@
+celltype,expected_formal_tests,reproduced_formal_tests,formal_test_status,expected_FDR_lt_005,reproduced_FDR_lt_005,significant_count_status
+MAC,477,477,PASS,179,179,PASS
+FIB,478,478,PASS,164,164,PASS

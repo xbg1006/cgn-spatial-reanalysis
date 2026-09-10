@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Analysis code for shared remodeling in crescentic glomerulonephritis"
+type: software
+authors:
+  - family-names: "[TO ADD]"
+    given-names: "[TO ADD]"
+version: "submission-draft"
+date-released: "2026-09-09"
+repository-code: "https://github.com/[TO-ADD]/[TO-ADD]"

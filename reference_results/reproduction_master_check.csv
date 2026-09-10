@@ -1,0 +1,14 @@
+section,check,key_result,status
+Input audit,Core data integrity,"3,218,210 × 480 Xenium; 782 × 480 ROI object; 586,628 ROI-associated cells",PASS
+Figure 1,Study cohort / ROI framework,63 patients; 782 ROIs,PASS
+Figure 1,Common PC1 support,-4.117234 to 13.401588,PASS
+Figure 1,PC1–DPT agreement,Spearman rho = 0.826334,PASS
+Figure 2,Composition statistics,7/8 shared PC1 FDR<0.05; 1/8 Disease×PC1 FDR<0.05,PASS
+Figure 2,Composition interaction pattern,PEC only,PASS
+Figure 3,Formal gene testing family,477 MAC + 478 FIB = 955,PASS
+Figure 3,Global FDR-significant genes,MAC 179; FIB 164,PASS
+Figure 3,Frozen molecular modules,module sizes and scores regenerated,PASS
+Figure 3,Slide-sensitivity models,9/9 interaction P values matched,PASS
+Figure 4,Formal spatial relationships,4/4 P values and FDR values matched,PASS
+Figure 4,MAC–FIB model specifications,9/9 models matched; ROI counts and ranks matched,PASS
+Figure 4,Spatial robustness,"LOO, slide adjustment, curve geometry, k sensitivity",PASS

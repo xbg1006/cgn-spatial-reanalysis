@@ -1,0 +1,3 @@
+item,status,note
+Figure 4 PC1 trimming-bound generation rule,DOCUMENTATION PENDING,Original bound-generation code was not located under the current data-directory search scope. All 9 frozen-bound statistical models reproduce exactly.
+Figure 3 pathway-library online state,FROZEN OUTPUT,Pathway enrichment is intentionally preserved as frozen output because external GO/Reactome/Enrichr libraries can change over time.

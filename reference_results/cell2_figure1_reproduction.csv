@@ -1,0 +1,10 @@
+metric,expected,reproduced,absolute_difference,status
+Full study cohort,63.0,63.0,0.0,PASS
+Control study patients,6.0,6.0,0.0,PASS
+LN study patients,19.0,19.0,0.0,PASS
+ANCA study patients,32.0,32.0,0.0,PASS
+anti-GBM study patients,6.0,6.0,0.0,PASS
+ROI count,782.0,782.0,0.0,PASS
+Common PC1 low,-4.117234,-4.117234230041504,2.3004150406791268e-07,PASS
+Common PC1 high,13.401588,13.401588439941406,4.39941405971922e-07,PASS
+PC1 vs DPT Spearman rho,0.8263341779437914,0.8263341779437914,0.0,PASS

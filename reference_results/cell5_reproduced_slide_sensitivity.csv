@@ -1,0 +1,4 @@
+analysis,interaction_p,curve_correlation_vs_unadjusted,n_ROI,n_patients
+Unadjusted,0.017941719762655316,1.0,221,23
+Slide-adjusted,0.0883298499093668,0.9294323371059265,221,23
+Overlap-slide restricted,0.20982018461470905,0.9207240812465832,178,17

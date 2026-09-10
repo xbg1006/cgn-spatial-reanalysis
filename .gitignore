@@ -1,0 +1,22 @@
+# Large/private runtime data
+workspace/*
+!workspace/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated figures and temporary logs
+*.tmp
