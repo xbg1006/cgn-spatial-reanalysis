@@ -22,7 +22,7 @@ Release status: PUBLIC RELEASE ARCHIVED
 
 Release:
 - GitHub v1.0.2
-- Zenodo DOI: 
+- Zenodo DOI: 10.5281/zenodo.22710119
 
 Completed:
 - author metadata added to CITATION.cff
