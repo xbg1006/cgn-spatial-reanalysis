@@ -11,5 +11,5 @@ authors:
     given-names: "Xiaoliang"
 version: "1.0.1"
 date-released: "2026-09-11"
-doi: 
+doi: 10.5281/zenodo.22709511
 repository-code: "https://github.com/xbg1006/cgn-spatial-reanalysis"
