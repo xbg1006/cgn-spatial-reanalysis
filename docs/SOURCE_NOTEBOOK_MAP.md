@@ -1,6 +1,6 @@
 # Source notebook map
 
-Only manuscript-relevant notebooks were retained in the public-facing draft.
+Only manuscript-relevant notebooks are included in the public repository.
 
 | Repository notebook | Source notebook in project | Purpose |
 |---|---|---|
