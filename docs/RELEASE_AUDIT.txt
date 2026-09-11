@@ -21,8 +21,8 @@ Recovered fixed R implementation included.
 Release status: PUBLIC RELEASE ARCHIVED
 
 Release:
-- GitHub v1.0.1
-- Zenodo DOI: doi:10.5281/zenodo.22709511
+- GitHub v1.0.2
+- Zenodo DOI: 
 
 Completed:
 - author metadata added to CITATION.cff
