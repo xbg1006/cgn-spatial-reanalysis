@@ -148,7 +148,9 @@ Public release accompanying manuscript submission.
 The manuscript-relevant analysis notebooks, frozen reference outputs,
 software environment files, citation metadata and MIT License are included.
 
-A persistent archived release will be deposited through Zenodo.
+A persistent archived release is available through Zenodo:
+
+https://doi.org/10.5281/zenodo.22707799
 
 ## Data availability
 
@@ -164,4 +166,4 @@ https://github.com/xbg1006/cgn-spatial-reanalysis
 Citation metadata are provided in `CITATION.cff`.
 
 If you use this code, please cite the associated manuscript.
-A Zenodo DOI will be added after archival release.
+Archived release DOI: https://doi.org/10.5281/zenodo.22707799
