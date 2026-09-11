@@ -9,7 +9,7 @@ authors:
     given-names: "Yan"
   - family-names: "Wang"
     given-names: "Xiaoliang"
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-09-11"
-doi: 10.5281/zenodo.22709511
+
 repository-code: "https://github.com/xbg1006/cgn-spatial-reanalysis"
