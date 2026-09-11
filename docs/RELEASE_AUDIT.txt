@@ -13,12 +13,16 @@ VALID   07_final_figures.ipynb
 
 Private local-path hits: 0
 
-Frozen reference CSV files copied: 18
+Frozen reference CSV files included: 20
 
 CR2-HTZ exact generating code detected: YES
 Recovered fixed R implementation included.
 
-Release status: READY FOR PUBLIC RELEASE
+Release status: PUBLIC RELEASE ARCHIVED
+
+Release:
+- GitHub v1.0.1
+- Zenodo DOI: [填 v1.0.1 新 DOI]
 
 Completed:
 - author metadata added to CITATION.cff
@@ -26,9 +30,7 @@ Completed:
 - GitHub repository URL added
 - manuscript-relevant notebooks validated
 - frozen reference outputs included
-
-Pending after public release:
-- archive a release through Zenodo and add persistent DOI
+- frozen pathway-enrichment outputs included
 
 Optional:
-- clean-machine rerun before final archival release
+- clean-machine rerun for additional end-to-end validation
