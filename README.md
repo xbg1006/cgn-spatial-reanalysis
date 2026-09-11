@@ -150,7 +150,7 @@ software environment files, citation metadata and MIT License are included.
 
 A persistent archived release is available through Zenodo:
 
-https://doi.org/10.5281/zenodo.22707799
+https://doi:10.5281/zenodo.22709511
 
 ## Data availability
 
