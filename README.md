@@ -138,24 +138,30 @@ conda env create -f environment.yml
 conda activate cgn-spatial
 ```
 
-Exact package versions from the original workstation were not preserved in the uploaded code pack.
+Exact package versions from the original workstation were not preserved in the public repository.
 The environment file therefore specifies compatible package families rather than claiming an exact lockfile.
 
 ## Repository status
 
-**Draft for manuscript submission.**
+Public release accompanying manuscript submission.
 
-Before public archiving (GitHub/Zenodo), complete:
+The manuscript-relevant analysis notebooks, frozen reference outputs,
+software environment files, citation metadata and MIT License are included.
 
-1. author names in `CITATION.cff`;
-3. repository URL/DOI;
-4. license choice;
-5. a final clean-machine run if feasible.
+A persistent archived release will be deposited through Zenodo.
 
 ## Data availability
 
-Source spatial transcriptomic data: **GEO GSE294965**.
+The source spatial transcriptomic dataset is publicly available through
+GEO under accession **GSE294965**.
+
+Analysis code and frozen reference outputs are available at:
+
+https://github.com/xbg1006/cgn-spatial-reanalysis
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`; author fields remain placeholders until the final author list is supplied.
+Citation metadata are provided in `CITATION.cff`.
+
+If you use this code, please cite the associated manuscript.
+A Zenodo DOI will be added after archival release.
