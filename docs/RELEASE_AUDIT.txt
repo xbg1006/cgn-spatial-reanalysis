@@ -1,24 +1,34 @@
 CGN REPOSITORY RELEASE AUDIT
-========================================================================
+============================================================
 
 Notebook validation:
-  VALID    01_prepare_primary_roi_pc1.ipynb
-  VALID    02_spatial_neighborhood_analysis.ipynb
-  VALID    03_composition_analysis.ipynb
-  VALID    04_molecular_analysis.ipynb
-  VALID    05_nearest_distance_sensitivity.ipynb
-  VALID    06_reproduction_audit.ipynb
-  VALID    07_final_figures.ipynb
+
+VALID   01_prepare_primary_roi_pc1.ipynb
+VALID   02_spatial_neighborhood_analysis.ipynb
+VALID   03_composition_analysis.ipynb
+VALID   04_molecular_analysis.ipynb
+VALID   05_nearest_distance_sensitivity.ipynb
+VALID   06_reproduction_audit.ipynb
+VALID   07_final_figures.ipynb
 
 Private local-path hits: 0
 
 Frozen reference CSV files copied: 18
 
-CR2-HTZ exact generating code detected: YES — recovered fixed R implementation added.
-Release status: DRAFT — CR2 code blocker resolved; remaining release items are metadata/license/clean-run checks.
+CR2-HTZ exact generating code detected: YES
+Recovered fixed R implementation included.
 
-Other pre-release items:
-  - add author names to CITATION.cff
-  - choose a software license
-  - add final GitHub URL and/or Zenodo DOI
-  - ideally perform a clean-machine run
+Release status: READY FOR PUBLIC RELEASE
+
+Completed:
+- author metadata added to CITATION.cff
+- MIT software license added
+- GitHub repository URL added
+- manuscript-relevant notebooks validated
+- frozen reference outputs included
+
+Pending after public release:
+- archive a release through Zenodo and add persistent DOI
+
+Optional:
+- clean-machine rerun before final archival release
