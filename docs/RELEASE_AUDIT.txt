@@ -22,7 +22,7 @@ Release status: PUBLIC RELEASE ARCHIVED
 
 Release:
 - GitHub v1.0.1
-- Zenodo DOI: [填 v1.0.1 新 DOI]
+- Zenodo DOI: assigned upon archival release
 
 Completed:
 - author metadata added to CITATION.cff
