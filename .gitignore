@@ -20,3 +20,9 @@ Thumbs.db
 
 # Generated figures and temporary logs
 *.tmp
+# Large data files
+*.h5ad
+*.h5
+*.rds
+*.RData
+*.zip
