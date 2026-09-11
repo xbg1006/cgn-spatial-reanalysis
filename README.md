@@ -150,7 +150,7 @@ software environment files, citation metadata and MIT License are included.
 
 A persistent archived release is available through Zenodo:
 
-https://doi.
+https://doi.org/10.5281/zenodo.22710119
 
 ## Data availability
 
@@ -166,4 +166,4 @@ https://github.com/xbg1006/cgn-spatial-reanalysis
 Citation metadata are provided in `CITATION.cff`.
 
 If you use this code, please cite the associated manuscript.
-Archived release DOI: 
+Archived release DOI: https://doi.org/10.5281/zenodo.22710119
